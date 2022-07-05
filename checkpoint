@@ -1,2 +1,2 @@
-model_checkpoint_path: "diff_reg"
-all_model_checkpoint_paths: "diff_reg"
+model_checkpoint_path: "curv_reg"
+all_model_checkpoint_paths: "curv_reg"
