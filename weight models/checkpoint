@@ -1,2 +1,2 @@
-model_checkpoint_path: "1e7MSE_FoldCurv"
-all_model_checkpoint_paths: "1e7MSE_FoldCurv"
+model_checkpoint_path: "e1Diff0.01"
+all_model_checkpoint_paths: "e1Diff0.01"
