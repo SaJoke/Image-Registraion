@@ -1,2 +1,2 @@
-model_checkpoint_path: "e1Diff0.01"
-all_model_checkpoint_paths: "e1Diff0.01"
+model_checkpoint_path: "e1diff0.1"
+all_model_checkpoint_paths: "e1diff0.1"
